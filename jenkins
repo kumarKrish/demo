@@ -1,0 +1,6 @@
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+901a856d0f954c5d9e29d4eab0c93f5a
+
+
+https://www.digitalocean.com/community/tutorials/how-to-install-puppet-4-in-a-master-agent-setup-on-ubuntu-14-04#create-puppet-master-server
